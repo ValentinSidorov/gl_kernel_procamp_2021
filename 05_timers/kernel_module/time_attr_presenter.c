@@ -106,7 +106,7 @@ static void time_attr_presenter_exit(void)
 module_init(time_attr_presenter_init);
 module_exit(time_attr_presenter_exit);
 
-MODULE_AUTHOR("Ivan Stepanenko <istepanenko@gmail.com>");
+MODULE_AUTHOR("Valentin Sidorov <svv311077@gmail.com>");
 MODULE_DESCRIPTION("Time attribute presenter module");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
